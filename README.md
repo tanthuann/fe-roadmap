@@ -2,13 +2,13 @@
 Figjam: [Frontend Roadmap](https://www.figma.com/file/CUFBADxP94qCKe7K296Uy8/Roadmap-FE---Thu%E1%BA%ADn)
 
 ## FE 
-<img width="1616" alt="Roadmap FE - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/c79d2905-1c15-44d0-b864-4ffcc29bfc81">
+<img width="1616" alt="Roadmap FE - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/af7626d7-621d-4bb9-b993-39b702378741">
 
 ## Javascript
-<img width="1864" alt="Roadmap JS - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/002ff6b0-9de0-4bfa-b063-728374ea7392">
+<img width="1864" alt="Roadmap JS - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/9bdf8c89-31e6-4697-95b7-78449c0c281e">
 
 ## React
-<img width="2085" alt="Roadmap React - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/17bdaa56-0943-4804-a096-b4909367ce09">
+<img width="2085" alt="Roadmap React - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/b436e4a0-13af-4b80-ad58-e07a22cb166c">
 
 ## React Native
-<img width="1516" alt="Roadmap React Native - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/0e8b44f0-e80b-41a5-a380-532027f6c9f3">
+<img width="1516" alt="Roadmap React Native - Thuận" src="https://github.com/tanthuann/fe-roadmap/assets/44896550/408218e0-a090-4c02-a068-13bef63c1274">
